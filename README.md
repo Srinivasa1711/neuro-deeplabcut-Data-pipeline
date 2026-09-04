@@ -6,9 +6,10 @@ This project is a data pipeline built to automate the analysis of long, recorded
 
 ## What Is This Project and Its Uses
 
-This is a DeepLabCut-based pipeline designed to process recorded video, detect and correct real-world inconsistencies in the data, and generate reliable, reviewable results from it.
+This is a DeepLabCut-based pipeline designed to process recorded video, detect and correct real-world inconsistencies in the data, and generate reliable, reviewable results from it. It uses machine learning and deep learning models to train on recorded video, learning to recognize and track specific objects/points of interest across frames.
 
 Its main uses are:
+- Training and applying deep learning models to detect and track objects/points across video frames
 - Automating movement/pose tracking analysis from recorded video
 - Catching and handling messy, inconsistent real-world data before it breaks downstream results
 - Replacing manual, repetitive review work with a consistent, automated process
@@ -18,28 +19,31 @@ Its main uses are:
 
 **Tools currently in use:**
 - Python
-- DeepLabCut — pose estimation and motion tracking
+- DeepLabCut — deep learning-based pose estimation and object/motion tracking
+- Machine learning / deep learning models — trained on labeled video frames to recognize and track objects of interest
 - Pandas / NumPy — data handling and processing
 - YAML — configuration management
 - Git / GitHub — version control
 
 **Current goal:**
-Build a working end-to-end pipeline — from raw video ingestion through to automated calculations — that reliably handles real-world data inconsistencies without manual intervention.
+Build a working end-to-end pipeline — from raw video ingestion through model-based object tracking to automated calculations — that reliably handles real-world data inconsistencies without manual intervention.
 
 **Future goal:**
-Expand the pipeline into a more complete, production-ready tool the neurology department can use directly, with broader data validation, more automated reporting, and a smoother workflow from raw recording to final results.
+Expand the pipeline into a more complete, production-ready tool the neurology department can use directly, with improved model training on more video data, broader data validation, more automated reporting, and a smoother workflow from raw recording to final results.
 
 ## Future Tools That Might Be Used
 
 - OpenCV — additional video processing/frame handling
+- TensorFlow / PyTorch — for further custom model training or fine-tuning beyond DeepLabCut's built-in framework
 - A workflow orchestration tool (e.g., Airflow or Prefect) if the pipeline grows in complexity
-- A visualization/reporting library (e.g., Matplotlib or Plotly) for presenting results
+- A visualization/reporting library (e.g. Matplotlib or Plotly) for presenting results
 - A lightweight database or structured storage format for tracking processed results over time
 
 ## Validation
 
 Validation is an ongoing, core part of this project — since real recorded data is often inconsistent, checking it early is what makes the automated results trustworthy. This includes:
 - Verifying video files are complete and readable before processing
+- Evaluating model tracking accuracy against known/labeled reference points
 - Catching inconsistencies or unexpected formatting in raw data early in the pipeline
 - Comparing pipeline output against expected/manual results during development to confirm accuracy
-- Flagging and logging any data that fails validation instead of silently letting it through
+- Flagging and logging any data that fails validation instead of silently letting it through.

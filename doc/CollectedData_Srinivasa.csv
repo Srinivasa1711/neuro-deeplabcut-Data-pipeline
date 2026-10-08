@@ -1,0 +1,43 @@
+scorer,,,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa,Srinivasa
+bodyparts,,,nose,nose,left_ear,left_ear,right_ear,right_ear,neck,neck,left_forepaw,left_forepaw,right_forepaw,right_forepaw,left_hindpaw,left_hindpaw,right_hindpaw,right_hindpaw,tail_base,tail_base,mid_tail,mid_tail,tail_tip,tail_tip
+coords,,,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y,x,y
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img006398.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img008644.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img009808.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img013404.png,634.1134710107335,392.37197506688176,644.3641157184993,344.27279605351896,585.2257808660041,353.73492962991827,,,608.8811148070022,429.4319982411122,585.2257808660041,430.2205093724788,640.4215600616664,419.1813535333463,532.3955350644417,405.776664300114,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img014408.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img016021.png,,,,,,,,,488.23891170791177,461.76095462714295,436.98568816908255,474.3771327290086,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img019155.png,480.35380039424575,375.81324130818314,520.5678680939426,333.2336402143866,464.58357776691366,330.0795956889201,,,,,,,,,,,564.7244914504724,402.62261977464766,613.6121815952018,403.41113090601425,644.3641157184993,435.740087292045
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img020227.png,,,,,,,,,,,,,,,,,483.50784491971217,457.8183989703099,565.513002581839,463.33797688987613,686.1552056809294,452.29882105074364
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img021170.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img023111.png,,,,,,,,,,,,,,,,,234.3383274078654,516.9567338228052,367.5967086088214,531.9384453187706,542.6461797722075,528.7844007933043
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img023114.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img025470.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img027156.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img028079.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img028488.png,,,,,,,,,,,,,,,,,545.8002242976739,377.3902635709163,476.41124473741274,364.77408546905065,390.46353141845293,356.88897415538463
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img031392.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img037795.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img042945.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img047911.png,,,,,,,495.3355118902112,325.34852890072057,,,,,,,,,499.2780675470442,427.0664648470124,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img052735.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img053165.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img057036.png,436.19717703771596,390.006441672782,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img059087.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img071422.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img072304.png,,,595.4764255737699,364.77408546905065,533.9725573271749,353.73492962991827,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img086733.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img093410.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img095148.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img097126.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img101700.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img104104.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img105371.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img105783.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img106916.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img108025.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img108583.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img111960.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img113626.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img126481.png,,,,,,,,,,,,,,,,,,,,,,
+labeled-data,SCvideo2025-06-17T11_50_07 (5L),img126576.png,,,,,,,,,,,,,,,,,,,,,,
